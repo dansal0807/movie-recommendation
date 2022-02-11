@@ -2,7 +2,7 @@
 
 Esse projeto busca selecionar os filmes oferecidos no Imdb, analisá-los através da compreensão de seu dataset e, em sua etapa final, disponibilizar um algoritmo de recomendação.
 
-O projeto é dividido em 4 etapas.
+O projeto é dividido em 3 etapas:
 ---------------------
 
 1- Coleta e limpeza de dados:
